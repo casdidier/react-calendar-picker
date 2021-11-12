@@ -2,7 +2,7 @@
 
 # Stack
 
-React / Hooks
+React / Hooks / Styled Components
 
 simple react calendar picker
 
